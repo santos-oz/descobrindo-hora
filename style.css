@@ -1,0 +1,31 @@
+body{
+    background: blue;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;    /* centraliza */
+    box-shadow: 3px 3px 10px rgb(0, 0, 14);
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+img{
+    padding: 15px;
+    padding-left: 28px;
+    width:90%;
+    height:80%;
+}
